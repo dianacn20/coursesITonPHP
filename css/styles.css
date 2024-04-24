@@ -1,0 +1,36 @@
+.myBtn{
+    outline: 1px solid rgb(127, 115, 195);
+    color: rgb(34, 34, 34);
+    transition: all 1s;
+}
+
+.myBtn:hover{
+    outline: 1px solid mediumslateblue;
+    background-color: mediumslateblue;
+    transition: all 1s;
+    color: white;
+}
+.myNav{
+    margin-top: 70px;
+}
+.imgContact img{
+    width: 99%;
+    height: 220px;
+}
+.myMap iframe{
+    width: 100%;
+    height: 200px;
+}
+.myLogo{
+    filter:drop-shadow(3px 5px 3px white);
+}
+button.login-btn, button.signup-btn {
+    text-decoration: none;
+  }
+  
+#carouselExampleIndicators {
+width : 100%;
+padding: 10px 30px 10px 30px;
+height: 80%;
+}
+  
